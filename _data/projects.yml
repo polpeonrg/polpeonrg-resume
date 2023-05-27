@@ -1,0 +1,28 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+# (Quick change: using duration as tech.)
+
+# Co-Op Project
+- project: Bank Interface Program Development on Oracle EBS
+  role: Primary Developer
+  duration: Oracle EBS, PL/SQL
+  # url: "#"
+  description: Create PL/SQL to query data from designated client's Oracle database in Oracle E-Business Suite for Generate text file which will be used by specific bank.
+
+- project: Online Services Platform
+  role: Full Stack Developer
+  duration: C# .NET Core MVC
+  url: "https://github.com/polpeonrg/ServicesCentral"
+  description: Online services platform who want to sell/buy services, such as salon, Thai massage. Lead from start to full-fledged project from UX/UI design, front-end, back-end and modeling.
+
+- project: Custom Inventory Management System
+  role: UX/UI Design & Back-end Developer
+  duration: C# .NET Core Web API
+  url: "https://github.com/polpeonrg/DooProject-API"
+  description: Startup Project <ul><li>Lead design UX/UI and presentation by Canva for pitching</li><li>Assistance of Inventory Management Web API</li></ul>
+
+- project: Web Design and Development
+  role: Front-end Developer
+  duration: HTML, CSS, JavaScript
+  url: "https://github.com/pichayakorn/wd02-charcafe"
+  description: Designed and developed tea plantation web page without framework from scratch.
