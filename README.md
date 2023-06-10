@@ -70,4 +70,4 @@ If you spot a bug, or want to improve the code, or even make the dummy content b
 
 ## License
 
-The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
+The code and styles are licensed under the  BSD-3-Clause license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
