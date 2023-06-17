@@ -17,11 +17,11 @@ resume_title: "Backend Developer • Senior Student"
 resume_contact_email: "opor.samrit@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone: "082-508-2403"
+resume_contact_telephone: ""
 resume_contact_address: "Bangkok, Thailand"
 
-resume_header_contact_info: "Bangkok, Thailand • 082-508-2403 • opor.samrit@gmail.com"
-display_header_contact_info: "false"
+resume_header_contact_info: "Bangkok, Thailand • opor.samrit@gmail.com"
+display_header_contact_info: "true"
 
 resume_header_intro: "<p>Kornkanok is actively pursuing her job related to computer and Information Technology. She is enthusiastic and responsible to commit works successfully with good results.</p>"
 
